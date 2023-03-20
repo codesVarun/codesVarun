@@ -1,5 +1,5 @@
-### Hi there, I'm Varun 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamvarunking?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamvarunking&screen_name=VarunSingh)
+# Blockchain Application by AVCoders 
+
 
 ## I'm a Student, learner and a developer!!
 

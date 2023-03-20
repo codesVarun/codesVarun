@@ -1,51 +1,16 @@
-# Blockchain Application by AVCoders 
+### Hi there, I'm Varun 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamvarunking?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamvarunking&screen_name=VarunSingh)
 
+## I'm a Student, learner and a developer!!
 
-## Functionality that our project has
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read books
 
-- Blockchain Mining
-- Block Validation
-- Block Replacement
-- Automatically Nonces generator
-- Maximize difficulty 
-- Sync Block to every joined client
-- Automatic timestamp generator
-- Sending data to front-end
+### Spotify Playing 🎧
 
-## Required modules to run this app
-- Node must be installed in the system
-- express [npm install express]
-- body-parser [npm install body-parser]
-- redis [npm install redis]
-- blockchain [npm install blockchain]
-- ejs [npm install ejs]
-- path [npm install path]
-
-
-## How to run this project
-- First download redis server from git hub
-- Run redis server on your system
-- Open command terminal in your peoject folder
-- to run: npm run dev [By default it will run on port 3000]
-- to add more peers (client): npm run dev-peer [peer will run on random port that will console]
-- open: http://localhost:3000
-
-
-## Limits of the project
-- Can not run without require modules
-- It will give error if redis server is not running on the system
-- front-end will change in other's system because as images are not uploaded on github 
-
-
-## Team Members
-- Front-end team
-    - Abhishek Verma: https://github.com/abhishekcpp007
-    - Md. Arsalan:   https://github.com/MdAln
-- Back-end team
-    - Varun Singh: https://github.com/iamvarunking
-
-### To see the overview of the project open the document.pdf file, 
-# Thank You.
+[<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31xmr7cdarnnotbx53x7tdekdcc4)
 
 ### Connect with me:
 
@@ -57,7 +22,23 @@
 <br />
 
 <br />
+<br />
 
-[twitter]: https://twitter.com/iamvarunking
-[instagram]: https://instagram.com/iamvarunking
-[linkedin]: https://linkedin.com/in/iamvarunking
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="varun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamvarunking&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Language uses</summary>
+
+  <img align="left" alt="languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvarunking&show_icons=true&hide_border=true" />
+
+</details>
+
+
+[twitter]: https://twitter.com/read__its
+[instagram]: https://instagram.com/read_its
+[linkedin]: https://linkedin.com/in/varun-singh-bb1845177

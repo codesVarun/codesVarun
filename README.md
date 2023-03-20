@@ -37,6 +37,16 @@
 - front-end will change in other's system because as images are not uploaded on github 
 
 
+## Team Members
+- Front-end team
+    - Abhishek Verma: https://github.com/abhishekcpp007
+    - Md. Arsalan:   https://github.com/MdAln
+- Back-end team
+    - Varun Singh: https://github.com/iamvarunking
+
+### To see the overview of the project open the document.pdf file, 
+# Thank You.
+
 ### Connect with me:
 
 
@@ -47,10 +57,7 @@
 <br />
 
 <br />
-<br />
 
-
-
-[twitter]: https://twitter.com/read__its
-[instagram]: https://instagram.com/read_its
-[linkedin]: https://linkedin.com/in/varun-singh-bb1845177
+[twitter]: https://twitter.com/iamvarunking
+[instagram]: https://instagram.com/iamvarunking
+[linkedin]: https://linkedin.com/in/iamvarunking

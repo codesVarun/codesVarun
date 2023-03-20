@@ -1,16 +1,41 @@
 # Blockchain Application by AVCoders 
 
 
-## I'm a Student, learner and a developer!!
+## Functionality that our project has
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books
+- Blockchain Mining
+- Block Validation
+- Block Replacement
+- Automatically Nonces generator
+- Maximize difficulty 
+- Sync Block to every joined client
+- Automatic timestamp generator
+- Sending data to front-end
 
-### Spotify Playing 🎧
+## Required modules to run this app
+- Node must be installed in the system
+- express [npm install express]
+- body-parser [npm install body-parser]
+- redis [npm install redis]
+- blockchain [npm install blockchain]
+- ejs [npm install ejs]
+- path [npm install path]
 
-[<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31xmr7cdarnnotbx53x7tdekdcc4)
+
+## How to run this project
+- First download redis server from git hub
+- Run redis server on your system
+- Open command terminal in your peoject folder
+- to run: npm run dev [By default it will run on port 3000]
+- to add more peers (client): npm run dev-peer [peer will run on random port that will console]
+- open: http://localhost:3000
+
+
+## Limits of the project
+- Can not run without require modules
+- It will give error if redis server is not running on the system
+- front-end will change in other's system because as images are not uploaded on github 
+
 
 ### Connect with me:
 
@@ -24,19 +49,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="varun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamvarunking&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Language uses</summary>
-
-  <img align="left" alt="languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvarunking&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [twitter]: https://twitter.com/read__its

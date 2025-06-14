@@ -1,44 +1,80 @@
-### Hi there, I'm Varun 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/itzzzzVarun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamvarunking&screen_name=VarunSingh)
+<h1 align="center">Hi there, I'm Varun 👋</h1>
 
-## I'm a Student, learner and a developer!!
+<p align="center">
+  <a href="https://twitter.com/codesVarun">
+    <img src="https://img.shields.io/twitter/follow/codesVarun?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/codesVarun">
+    <img src="https://komarev.com/ghpvc/?username=codesVarun&style=for-the-badge" alt="Profile views" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books
+---
 
-### Spotify Playing 🎧
+## 👨‍💻 About Me
 
-[<img src="https://spotify-github-readme.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31xmr7cdarnnotbx53x7tdekdcc4)
+- 🎓 I'm a **Student**, **Developer**, and a lifelong **Learner**  
+- 🌱 Currently learning **Data Engineering**, **System Design**, and **Machine Learning**
+- 👯 Looking to collaborate on **Open Source Projects** and **Real-world Data Problems**
+- 🥅 2025 Goals: Master **SQL**, **Pandas**, and build 3+ solid DE projects
+- ⚡ Fun Fact: I'm into **reading**, **minimal design**, and **tech rewinds**
 
-### Connect with me:
+---
 
+## 📈 GitHub Activity
 
-[<img align="left" alt="read__its | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="varun-singh-bb1845177 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="read_its | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesVarun&theme=tokyonight&hide_border=true" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codesVarun&show_icons=true&theme=tokyonight&hide_border=true" alt="Varun's GitHub Stats" />
+</p>
 
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesVarun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="varun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamvarunking&show_icons=true&hide_border=true" />
+## 🏆 GitHub Trophies
 
-</details>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codesVarun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-<details>
-  <summary>:zap: Language uses</summary>
+---
 
-  <img align="left" alt="languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvarunking&show_icons=true&hide_border=true" />
+## 📊 Contribution Graph
 
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codesVarun&theme=tokyo-night&hide_border=true" />
+</p>
 
+---
 
-[twitter]: https://twitter.com/read__its
-[instagram]: https://instagram.com/read_its
-[linkedin]: https://linkedin.com/in/varun-singh-bb1845177
+## 🎧 Spotify Playing
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31xmr7cdarnnotbx53x7tdekdcc4)
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/codesVarun"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@codesVarun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/codesVarun"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Varun%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/varunxpy"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@varunxpy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+## 💬 Recent Highlights
+
+- 🔥 Working on: [ETL pipeline with Airflow, Streamlit, PostgreSQL](https://github.com/codesVarun/data-engineering-journey/tree/main/projects/etl-pipeline-covid-api)
+- ✍️ Writing notes & tutorials on Pandas, NumPy, SQL in the same repo
+- 💡 Planning to build an AI-based LinkedIn content generator with `n8n` + `ChatGPT`
+
+---
+
+> ✨ _Thanks for visiting my profile! If you like what I do, consider following me or reaching out_ 😊

@@ -13,11 +13,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **Student**, **Developer**, and a lifelong **Learner**  
-- 🌱 Currently learning **Data Engineering**, **System Design**, and **Machine Learning**
-- 👯 Looking to collaborate on **Open Source Projects** and **Real-world Data Problems**
-- 🥅 2025 Goals: Master **SQL**, **Pandas**, and build 3+ solid DE projects
-- ⚡ Fun Fact: I'm into **reading**, **minimal design**, and **tech rewinds**
+- 💼 I'm a **Data Engineer** passionate about building scalable data solutions and intelligent systems  
+- 🚀 Currently learning and exploring **Data Engineering**, **AI/ML**, and **AI tools** to enhance productivity and impact  
+- 👯 Actively looking to collaborate on **open source projects**, **AI agents**, and **automation workflows**  
+- 🎯 2025 Goals: Master **AI tools**, **LLMs**, and build smart **AI agents** for real-world applications  
+- ⚡ Fun Fact: I love exploring **tech rewinds**, **minimalist design**, and experimenting with **cutting-edge AI** in daily workflows
+
 
 ---
 

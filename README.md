@@ -25,8 +25,9 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codesVarun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=codesVarun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codesVarun&show_icons=true&theme=tokyonight&hide_border=true" alt="Varun's GitHub Stats" />
